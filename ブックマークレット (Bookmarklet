@@ -1,0 +1,1 @@
+javascript:(async()=>{try{const r=await fetch('https://raw.githubusercontent.com/chiFUK77W/GeoFS-VDGS-Visual-Docking-Guidance-System/main/main.js');if(!r.ok)throw new Error('読み込み失敗');const c=await r.text();eval(c)}catch(e){alert(e.message)}})();
