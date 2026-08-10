@@ -23,3 +23,7 @@ Qキー...パネルの表示/非表示切り替え
 
 停止目標ぴったりに止まると「OK」表示
 
+
+
+[Controls] SET STOP... Set current position as the stop position (Shift + V) SET GATE... Enter gate number → Automatically sets the nearest matching gate as the stop position ARM / CLEAR... Enable/disable settings Q Key... Toggle panel visibility (Show/Hide) [Functions] Distant: Guidance arrow Approaching: Stop position bar + Yellow position arrow (lateral offset indicator) + Red left/right guidance arrows Within 30m: Distance display Within 30m and speed ≥ 5kt: "SLOW" warning Upon reaching stop position: "STOP" display Perfect alignment with stop target: "OK" display
+
